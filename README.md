@@ -1,2 +1,2 @@
 # Teste
- Testando um repositório
+ Testando um repositório, testando marcações da **linguagem markdown**, testando o *itálico*
